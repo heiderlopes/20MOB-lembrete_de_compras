@@ -61,6 +61,7 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
+    
     private fun confirmaExclusao(): AlertDialog {
         return AlertDialog.Builder(this)
             .setTitle("Lembrete de Compras")
